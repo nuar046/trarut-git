@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "564b26ee8398eaeae827331c15703bbe",
+    "revision": "fc9daec6f25540afcce8faa8a2a13bec",
     "url": "/trarut-git/index.html"
   },
   {
-    "revision": "6f8ae47305dbf4f23e5b",
-    "url": "/trarut-git/static/css/2.6bc7e310.chunk.css"
+    "revision": "c8523209aba411397a15",
+    "url": "/trarut-git/static/css/2.c9a55ce4.chunk.css"
   },
   {
-    "revision": "9e49d18a4e66c1616c22",
-    "url": "/trarut-git/static/css/main.a2c86985.chunk.css"
+    "revision": "7a22d56a2038a4f67693",
+    "url": "/trarut-git/static/css/main.be07524a.chunk.css"
   },
   {
-    "revision": "6f8ae47305dbf4f23e5b",
-    "url": "/trarut-git/static/js/2.7632f3ac.chunk.js"
+    "revision": "c8523209aba411397a15",
+    "url": "/trarut-git/static/js/2.ef8f466f.chunk.js"
   },
   {
     "revision": "8b0854dbace574fdd9bdaf468e523a50",
-    "url": "/trarut-git/static/js/2.7632f3ac.chunk.js.LICENSE"
+    "url": "/trarut-git/static/js/2.ef8f466f.chunk.js.LICENSE"
   },
   {
-    "revision": "9e49d18a4e66c1616c22",
-    "url": "/trarut-git/static/js/main.cdde59f4.chunk.js"
+    "revision": "7a22d56a2038a4f67693",
+    "url": "/trarut-git/static/js/main.5c5a0b62.chunk.js"
   },
   {
     "revision": "2ee6e95d2e60c6dbedf1",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trarut-git/precache-manifest.ec1008f86678e88c5ef784e05dbccb1e.js"
+  "/trarut-git/precache-manifest.3e81f226ac24eb415e36fc33f4084fad.js"
 );
 
 self.addEventListener('message', (event) => {

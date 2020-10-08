@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc9daec6f25540afcce8faa8a2a13bec",
+    "revision": "8fe280de76910047076f340e31dbea75",
     "url": "/trarut-git/index.html"
   },
   {
-    "revision": "c8523209aba411397a15",
-    "url": "/trarut-git/static/css/2.c9a55ce4.chunk.css"
+    "revision": "e1a5e6f0792dceb9f0e4",
+    "url": "/trarut-git/static/css/2.6bc7e310.chunk.css"
   },
   {
-    "revision": "7a22d56a2038a4f67693",
-    "url": "/trarut-git/static/css/main.be07524a.chunk.css"
+    "revision": "3d4c9c7f4cadde7afba1",
+    "url": "/trarut-git/static/css/main.a2c86985.chunk.css"
   },
   {
-    "revision": "c8523209aba411397a15",
-    "url": "/trarut-git/static/js/2.ef8f466f.chunk.js"
+    "revision": "e1a5e6f0792dceb9f0e4",
+    "url": "/trarut-git/static/js/2.55c25ae1.chunk.js"
   },
   {
     "revision": "8b0854dbace574fdd9bdaf468e523a50",
-    "url": "/trarut-git/static/js/2.ef8f466f.chunk.js.LICENSE"
+    "url": "/trarut-git/static/js/2.55c25ae1.chunk.js.LICENSE"
   },
   {
-    "revision": "7a22d56a2038a4f67693",
-    "url": "/trarut-git/static/js/main.5c5a0b62.chunk.js"
+    "revision": "3d4c9c7f4cadde7afba1",
+    "url": "/trarut-git/static/js/main.1980bc67.chunk.js"
   },
   {
     "revision": "2ee6e95d2e60c6dbedf1",
@@ -122,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "36ddbb2de498313fdacd1b2a64eb8363",
     "url": "/trarut-git/static/media/bg-cta.36ddbb2d.jpg"
-  },
-  {
-    "revision": "82bcf3c843c811de878424e8d8307250",
-    "url": "/trarut-git/static/media/demo-screen-1.82bcf3c8.jpg"
   },
   {
     "revision": "088a34f78f530102fd9661173b4a4f26",
@@ -430,5 +426,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "845604f7ac5c5d44155d61484944ca07",
     "url": "/trarut-git/static/media/silver.845604f7.png"
+  },
+  {
+    "revision": "c53630c15d11644b00b1afd827b14fe3",
+    "url": "/trarut-git/static/media/trarut-crop.c53630c1.png"
   }
 ]);

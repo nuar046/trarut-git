@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/trarut-git/static/css/main.be07524a.chunk.css",
-    "main.js": "/trarut-git/static/js/main.5c5a0b62.chunk.js",
-    "main.js.map": "/trarut-git/static/js/main.5c5a0b62.chunk.js.map",
+    "main.css": "/trarut-git/static/css/main.a2c86985.chunk.css",
+    "main.js": "/trarut-git/static/js/main.1980bc67.chunk.js",
+    "main.js.map": "/trarut-git/static/js/main.1980bc67.chunk.js.map",
     "runtime-main.js": "/trarut-git/static/js/runtime-main.6dd42b7d.js",
     "runtime-main.js.map": "/trarut-git/static/js/runtime-main.6dd42b7d.js.map",
-    "static/css/2.c9a55ce4.chunk.css": "/trarut-git/static/css/2.c9a55ce4.chunk.css",
-    "static/js/2.ef8f466f.chunk.js": "/trarut-git/static/js/2.ef8f466f.chunk.js",
-    "static/js/2.ef8f466f.chunk.js.map": "/trarut-git/static/js/2.ef8f466f.chunk.js.map",
+    "static/css/2.6bc7e310.chunk.css": "/trarut-git/static/css/2.6bc7e310.chunk.css",
+    "static/js/2.55c25ae1.chunk.js": "/trarut-git/static/js/2.55c25ae1.chunk.js",
+    "static/js/2.55c25ae1.chunk.js.map": "/trarut-git/static/js/2.55c25ae1.chunk.js.map",
     "index.html": "/trarut-git/index.html",
-    "precache-manifest.3e81f226ac24eb415e36fc33f4084fad.js": "/trarut-git/precache-manifest.3e81f226ac24eb415e36fc33f4084fad.js",
+    "precache-manifest.da7e2434ca6caf1b067c47a0928a60f9.js": "/trarut-git/precache-manifest.da7e2434ca6caf1b067c47a0928a60f9.js",
     "service-worker.js": "/trarut-git/service-worker.js",
-    "static/css/2.c9a55ce4.chunk.css.map": "/trarut-git/static/css/2.c9a55ce4.chunk.css.map",
-    "static/css/main.be07524a.chunk.css.map": "/trarut-git/static/css/main.be07524a.chunk.css.map",
-    "static/js/2.ef8f466f.chunk.js.LICENSE": "/trarut-git/static/js/2.ef8f466f.chunk.js.LICENSE",
+    "static/css/2.6bc7e310.chunk.css.map": "/trarut-git/static/css/2.6bc7e310.chunk.css.map",
+    "static/css/main.a2c86985.chunk.css.map": "/trarut-git/static/css/main.a2c86985.chunk.css.map",
+    "static/js/2.55c25ae1.chunk.js.LICENSE": "/trarut-git/static/js/2.55c25ae1.chunk.js.LICENSE",
     "static/media/mdb.css": "/trarut-git/static/media/arrow_right.8ef6a08c.svg",
     "static/media/app-store-badge.svg": "/trarut-git/static/media/app-store-badge.d0558d91.svg",
     "static/media/style.css": "/trarut-git/static/media/bg-cta.36ddbb2d.jpg",
-    "static/media/demo-screen-1.jpg": "/trarut-git/static/media/demo-screen-1.82bcf3c8.jpg",
     "static/media/all.min.css": "/trarut-git/static/media/fa-solid-900.f6121be5.woff2",
     "static/media/device-mockups.css": "/trarut-git/static/media/silver.845604f7.png",
-    "static/media/google-play-badge.svg": "/trarut-git/static/media/google-play-badge.cfea2442.svg"
+    "static/media/google-play-badge.svg": "/trarut-git/static/media/google-play-badge.cfea2442.svg",
+    "static/media/trarut-crop.png": "/trarut-git/static/media/trarut-crop.c53630c1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6dd42b7d.js",
-    "static/css/2.c9a55ce4.chunk.css",
-    "static/js/2.ef8f466f.chunk.js",
-    "static/css/main.be07524a.chunk.css",
-    "static/js/main.5c5a0b62.chunk.js"
+    "static/css/2.6bc7e310.chunk.css",
+    "static/js/2.55c25ae1.chunk.js",
+    "static/css/main.a2c86985.chunk.css",
+    "static/js/main.1980bc67.chunk.js"
   ]
 }
